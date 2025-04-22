@@ -27,4 +27,15 @@ async function runPythonScript() {
     }
     document.getElementById("iframe").src = "output.txt";
   }
+  function changeToReview()
+  {
+    document.getElementById("iframe").src = "output.txt";
+
+  }
+  function changeToComment()
+  {
+    document.getElementById("iframe").src = "Comments.txt";
+  }
   document.getElementById("button").addEventListener("click", runPythonScript);
+  document.getElementById("reviewButton").addEventListener("click", changeToReview);
+  document.getElementById("commentButton").addEventListener("click", changeToComment);

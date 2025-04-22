@@ -754,7 +754,7 @@ JavedKhan	 https://www.ratemyprofessors.com/professor/2780780
 WilliamHernandez	 https://www.ratemyprofessors.com/professor/2055004
 PatriciaGiannone	 https://www.ratemyprofessors.com/professor/2455091
 LynnFoster	 https://www.ratemyprofessors.com/professor/2596475
-Xuemei"Cherry"Su	 https://www.ratemyprofessors.com/professor/1086697
+XuemeiSu	 https://www.ratemyprofessors.com/professor/1086697
 TerrenceGiannone	 https://www.ratemyprofessors.com/professor/2102188
 NataliyaNikmehr	 https://www.ratemyprofessors.com/professor/2219237
 SteveBarth	 https://www.ratemyprofessors.com/professor/2678869
@@ -2293,7 +2293,7 @@ MichaelSmith	 https://www.ratemyprofessors.com/professor/1856432
 AaronBradford	 https://www.ratemyprofessors.com/professor/586505
 PaulDavidGilmore	 https://www.ratemyprofessors.com/professor/333895
 JeffreyRivers	 https://www.ratemyprofessors.com/professor/1903439
-ÉliceHennessee	 https://www.ratemyprofessors.com/professor/1866082
+ï¿½liceHennessee	 https://www.ratemyprofessors.com/professor/1866082
 C.TravisWebb	 https://www.ratemyprofessors.com/professor/1179469
 LoganMaertens	 https://www.ratemyprofessors.com/professor/1875102
 CarolynLange	 https://www.ratemyprofessors.com/professor/1872153
@@ -2489,7 +2489,7 @@ DebaratiByabartta	 https://www.ratemyprofessors.com/professor/2564231
 AnnetteHaywood-Carter	 https://www.ratemyprofessors.com/professor/2523843
 JohnMuto	 https://www.ratemyprofessors.com/professor/1970242
 JenniferMoorman	 https://www.ratemyprofessors.com/professor/1927094
-JoséSánchez-H	 https://www.ratemyprofessors.com/professor/151102
+Josï¿½Sï¿½nchez-H	 https://www.ratemyprofessors.com/professor/151102
 JerryMosher	 https://www.ratemyprofessors.com/professor/526631
 ThomasBlomquist	 https://www.ratemyprofessors.com/professor/854527
 SharynBlumenthal	 https://www.ratemyprofessors.com/professor/315537
@@ -3007,7 +3007,7 @@ IngridDeSanto	 https://www.ratemyprofessors.com/professor/2183995
 NathanRosenberger	 https://www.ratemyprofessors.com/professor/2557503
 MelissaArchibald	 https://www.ratemyprofessors.com/professor/2101329
 MichelleStonis	 https://www.ratemyprofessors.com/professor/1590492
-JoséLuisNájera	 https://www.ratemyprofessors.com/professor/2079198
+Josï¿½LuisNï¿½jera	 https://www.ratemyprofessors.com/professor/2079198
 HBerberian	 https://www.ratemyprofessors.com/professor/482026
 YattaKiazolu	 https://www.ratemyprofessors.com/professor/2359664
 WandaMullikin	 https://www.ratemyprofessors.com/professor/820467
@@ -4215,7 +4215,7 @@ VictorDeLaCruz	 https://www.ratemyprofessors.com/professor/2873759
 NicholasWerner	 https://www.ratemyprofessors.com/professor/2839137
 NicholasLozano	 https://www.ratemyprofessors.com/professor/2836468
 AlexKlotz	 https://www.ratemyprofessors.com/professor/2569091
-TomásVirgen	 https://www.ratemyprofessors.com/professor/2879401
+Tomï¿½sVirgen	 https://www.ratemyprofessors.com/professor/2879401
 DiazDeanna	 https://www.ratemyprofessors.com/professor/2830402
 ScottKeller	 https://www.ratemyprofessors.com/professor/2840364
 DylanGilbert	 https://www.ratemyprofessors.com/professor/2715397
@@ -4357,7 +4357,7 @@ JackDwyer	 https://www.ratemyprofessors.com/professor/402892
 ElyseHallett	 https://www.ratemyprofessors.com/professor/2270401
 LindaAlexander	 https://www.ratemyprofessors.com/professor/757369
 KarenArcos	 https://www.ratemyprofessors.com/professor/2990250
-BerdanetteO’Leary	 https://www.ratemyprofessors.com/professor/3038693
+BerdanetteOï¿½Leary	 https://www.ratemyprofessors.com/professor/3038693
 DaceyBashaw	 https://www.ratemyprofessors.com/professor/2855797
 MariaBaghasarian	 https://www.ratemyprofessors.com/professor/3034287
 TomStrybel	 https://www.ratemyprofessors.com/professor/309551
@@ -4826,7 +4826,7 @@ RitaPalacios	 https://www.ratemyprofessors.com/professor/1382877
 NicoleBennett	 https://www.ratemyprofessors.com/professor/640075
 CindyMatta	 https://www.ratemyprofessors.com/professor/1977589
 RosePhillips	 https://www.ratemyprofessors.com/professor/1220216
-MiriamNúñezValdovinos	 https://www.ratemyprofessors.com/professor/1992637
+MiriamNï¿½ï¿½ezValdovinos	 https://www.ratemyprofessors.com/professor/1992637
 ZuleimaRamirez	 https://www.ratemyprofessors.com/professor/1901218
 MahnazKhalili	 https://www.ratemyprofessors.com/professor/1982708
 FranciscaGonzalez	 https://www.ratemyprofessors.com/professor/1893911
