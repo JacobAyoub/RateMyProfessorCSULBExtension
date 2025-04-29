@@ -1,10 +1,13 @@
 {
-    "name": "RMP",
-    "description": "Base Level Extension",
-    "version": "1.0",
+    "name": "Rate My Professor (CSULB)",
+    "description": "An Extension to RateMyProfessor.com for CSULB students to register for classes easier. Just Enter your professor's name to the search box -> Press Get Info.",
+    "version": "2.3.4",
     "manifest_version": 3,
     "action": {
       "default_popup": "index.html",
-      "default_icon": "rmp.png"
+      "default_icon": "rmplogo.png"
+    },
+    "icons": {
+      "128": "rmp.png"
     }
   }

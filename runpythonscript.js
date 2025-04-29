@@ -16,7 +16,7 @@ async function runPythonScript() {
       });
 
       if (!response.ok) {
-        throw new Error('Failed to fetch data');
+        throw new Error('Professor not found. Please check your spelling.');
       }
 
       // Display the scraped data
@@ -25,16 +25,16 @@ async function runPythonScript() {
     } catch (error) {
       outputElement.textContent = `Error: ${error.message}`;
     }
-    document.getElementById("iframe").src = "output.txt";
+    document.getElementById("iframe").src = "ratings.html";
   }
   function changeToReview()
   {
-    document.getElementById("iframe").src = "output.txt";
+    document.getElementById("iframe").src = "ratings.html";
 
   }
   function changeToComment()
   {
-    document.getElementById("iframe").src = "Comments.txt";
+    document.getElementById("iframe").src = "comments.html";
   }
   document.getElementById("button").addEventListener("click", runPythonScript);
   document.getElementById("reviewButton").addEventListener("click", changeToReview);
