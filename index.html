@@ -105,17 +105,23 @@
       margin-left: 45px;
       border: 2px solid;
       border-radius: 10px;
-      background-color: lightgray;
+      background-color: skyblue;
     }
     .comment {
       border: 2px solid;
       width: 125px;
       height: 25px;
       border-radius: 10px;
-      background-color: lightgray;
+      background-color: skyblue;
     }
     .output{
       font-size: 9pt;
+    }
+    .comment:hover{
+      background-color: rgb(99, 185, 219);
+    }
+    .review:hover{
+      background-color: rgb(99, 185, 219);
     }
     </style>
 </head>
@@ -139,7 +145,7 @@
   <br>
   <br>
   <div class = "element3">
-    <button id="reviewButton" class = "review">Review</button>
+    <button id="reviewButton" class = "review">View Ratings</button>
     <button id="commentButton" class = "comment">Get Comments</button>
   </div>
   <pre class = "output" id="output"></pre>

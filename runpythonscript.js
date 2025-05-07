@@ -23,7 +23,7 @@ async function runPythonScript() {
       const data = await response.text();
       outputElement.textContent = data;
     } catch (error) {
-      outputElement.textContent = `Error: ${error.message}`;
+      outputElement.textContent = "Error: Database/Backend is currently not enabled";
     }
     document.getElementById("iframe").src = "ratings.html";
   }

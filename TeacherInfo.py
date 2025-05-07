@@ -98,7 +98,7 @@ def scrapeData(givenTeacher):
     file.write(f"\n##**<div style=\"page-break-after: always\"></div>Tags:**\n")
     for key, values in tags.items():
         file.write("<div style=\"page-break-after: always\"></div>")
-        file.write(f"***{key}: ***{values}\n")
+        file.write(f"***{key}: ***<span style=\"color: royalblue;\"> **{values}**</span>\n")
 
     commentfile = open("Comments.md", "w")
 
