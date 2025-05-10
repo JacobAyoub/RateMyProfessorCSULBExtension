@@ -1,3 +1,5 @@
+  button = document.getElementById("reviewButton");
+  button2 = document.getElementById("commentButton");
 async function runPythonScript() {
     const professorName = document.getElementById('professorName').value;
     const outputElement = document.getElementById('output');
@@ -26,16 +28,21 @@ async function runPythonScript() {
       outputElement.textContent = "Error: Database/Backend is currently not enabled";
     }
     document.getElementById("iframe").src = "ratings.html";
+    button.style.backgroundColor = "White";
+    button2.style.backgroundColor = "skyblue";
   }
   function changeToReview()
   {
     document.getElementById("iframe").src = "ratings.html";
-
+    button.style.backgroundColor = "White";
+    button2.style.backgroundColor = "skyblue";
   }
   function changeToComment()
   {
     document.getElementById("iframe").src = "comments.html";
+    button2.style.backgroundColor = "White";
+    button.style.backgroundColor = "skyblue";
   }
   document.getElementById("button").addEventListener("click", runPythonScript);
-  document.getElementById("reviewButton").addEventListener("click", changeToReview);
-  document.getElementById("commentButton").addEventListener("click", changeToComment);
+  button.addEventListener("click", changeToReview);
+  button2.addEventListener("click", changeToComment);
