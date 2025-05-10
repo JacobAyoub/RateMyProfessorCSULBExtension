@@ -24,7 +24,8 @@ def convertMDtoHTML():
 
 def scrapeData(givenTeacher):
     if teacherInfo.get(givenTeacher) is None:
-        raise ValueError("Professor not found. Please check your spelling.")
+        print("Professor not found. Please check your spelling.")
+        return
 
     url = teacherInfo[givenTeacher]
     headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
