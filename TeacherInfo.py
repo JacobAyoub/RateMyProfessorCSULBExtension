@@ -105,7 +105,7 @@ def scrapeData(givenTeacher):
 
     commentfile.write("#**Most Recent Comments:<div style=\"page-break-after: always\"></div>**\n")
     for x in range(0,iteration,2):
-        commentfile.write(f"\n###**{(x//2)+1}.** **Rating:** {quality[x].get_text()} **Difficulty:** {quality[x+1].get_text()} **Time:** {year[x]}\n<div style=\"page-break-after: always\"></div>{comments[x//2].get_text()}<div style=\"page-break-after: always\"></div>\n")
+        commentfile.write(f"\n###**{(x//2)+1}.** **Rating:** {quality[x].get_text()} | **Difficulty:** {quality[x+1].get_text()} | **Time:** {year[x]}\n<div style=\"page-break-after: always\"></div>{comments[x//2].get_text()}<div style=\"page-break-after: always\"></div>\n")
     if (iteration == 0):
         commentfile.write("### **The Following Professor Has No Comments**")
     
